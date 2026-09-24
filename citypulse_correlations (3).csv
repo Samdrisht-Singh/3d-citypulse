@@ -1,0 +1,11 @@
+area,rainfall_traffic_corr,rainfall_incidents_corr,traffic_incidents_corr,rainfall_traffic_relation,rainfall_incident_relation,traffic_incident_relation
+C-Scheme,0.2299761838362429,-0.07779858510471176,0.0045077004825272325,Weak association,Little association,Little association
+Civil Lines,0.016197895185988447,0.035883184880850426,-0.050168611313090104,Little association,Little association,Little association
+Durgapura,0.15036261028248257,-0.03410281490686831,0.018692546602369586,Little association,Little association,Little association
+Jagatpura,-0.120941065275554,-0.05532488685064082,0.766953849210893,Little association,Little association,Strong association
+Malviya Nagar,0.7606629833881943,0.6946865872990046,0.6901015087869206,Strong association,Moderate association,Moderate association
+Mansarovar,-0.021028199057542316,0.0639398813138488,-0.02179301535725852,Little association,Little association,Little association
+Pratap Nagar,-0.18600319478810748,0.01949608564499342,-0.09443897824799678,Little association,Little association,Little association
+Raja Park,0.20775845410376467,0.17259474365924388,0.12296894072804535,Weak association,Little association,Little association
+Sanganer,0.1383918910217128,-0.06567549841875928,0.12908127643583087,Little association,Little association,Little association
+Vaishali Nagar,0.11120733383240926,-0.09574799034628273,0.09331931239759927,Little association,Little association,Little association
